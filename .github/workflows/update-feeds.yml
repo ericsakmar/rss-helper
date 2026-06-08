@@ -1,0 +1,39 @@
+name: Update feeds
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - run: npm ci
+
+      - name: Generate RSS feeds
+        env:
+          FEED_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/feeds
+        run: npm run generate
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feeds/
+          if git diff --staged --quiet; then
+            echo "No feed changes to commit."
+          else
+            git commit -m "Update RSS feeds"
+            git push
+          fi
