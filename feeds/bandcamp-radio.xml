@@ -5,7 +5,7 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Tue, 09 Jun 2026 09:26:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 14:29:25 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
     <item>
       <title>Martyn — Bandcamp Selects</title>
