@@ -5,7 +5,7 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 10 Jun 2026 20:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:46:14 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
     <item>
       <title>feeble little horse — The Indie Show</title>
