@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 12 Jun 2026 14:37:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 19:55:42 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Well Done — The Hip Hop Show</title>
+      <link>https://bandcamp.com/radio?show=955</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=955</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45283525_0.jpg" alt="" /></p>
+<p>Nappy Nina & Swarvy join the show to discuss "Sow & So" — proof that this duo is simply unmatched. Thirteen tracks, unparalleled lyricism, a constellation of legends, noteworthy production, and a sonic world that sounds true to Nina's home. </p>
+<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://nappyninaswarvy.bandcamp.com/album/sow-so">Nappy Nina & Swarvy</a>.</p>]]></description>
+    </item>
     <item>
       <title>feeble little horse — The Indie Show</title>
       <link>https://bandcamp.com/radio?show=954</link>
@@ -447,15 +456,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42616674_0.jpg" alt="" /></p>
 <p>Vocalist Erba from the doomy Italian post-punk/black metal band Ponte del Diavolo joins a jam-packed Metal Show.</p>
 <p></p>]]></description>
-    </item>
-    <item>
-      <title>Sotomayor  — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=904</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=904</guid>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42616574_0.jpg" alt="" /></p>
-<p>Sotomayor stop by talk about their new album Wabi Sabi.</p>
-<p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Aly Gillani</a>. Featuring <a href="https://sotomayor.bandcamp.com/">Sotomayor</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
