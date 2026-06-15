@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 15 Jun 2026 11:48:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 17:00:38 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Moyses Dos Santos — Bandcamp Selects</title>
+      <link>https://bandcamp.com/radio?show=963</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=963</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45482347_0.jpg" alt="" /></p>
+<p>London-based Brazilian bassist Moyses Dos Santos on his long-awaited debut album, Maria</p>
+<p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <a href="https://moysesdossantos.bandcamp.com/album/maria">Moyses Dos Santos</a>.</p>]]></description>
+    </item>
     <item>
       <title>Well Done — The Hip Hop Show</title>
       <link>https://bandcamp.com/radio?show=955</link>
@@ -447,15 +456,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42753974_0.jpg" alt="" /></p>
 <p>GENA (Karriem Riggins and Liv.e) drop by on Bandcamp Selects</p>
 <p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href=https://genagenagena.bandcamp.com/album/the-pleasure-is-yours>GENA</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Spirit, Blood, Poison — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=905</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=905</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42616674_0.jpg" alt="" /></p>
-<p>Vocalist Erba from the doomy Italian post-punk/black metal band Ponte del Diavolo joins a jam-packed Metal Show.</p>
-<p></p>]]></description>
     </item>
   </channel>
 </rss>
