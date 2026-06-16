@@ -5,7 +5,7 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 15 Jun 2026 20:46:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:52:36 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
     <item>
       <title>Moyses Dos Santos — Bandcamp Selects</title>
