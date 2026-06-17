@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 17 Jun 2026 14:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:02:02 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Machinedrum — Bandcamp Electronic</title>
+      <link>https://bandcamp.com/radio?show=956</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=956</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45483105_0.jpg" alt="" /></p>
+<p>Machinedrum joins Emily to talk about his mini LP 'Blooms', his first independent release in 13 years.</p>
+<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://machinedrum.bandcamp.com/">Machinedrum</a> and <a href="https://bandcamp.com/mzrizk">MzRizk.</a></p>]]></description>
+    </item>
     <item>
       <title>Moyses Dos Santos — Bandcamp Selects</title>
       <link>https://bandcamp.com/radio?show=963</link>
@@ -447,15 +456,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42754216_0.jpg" alt="" /></p>
 <p>Ol' Burger Beats joins the show to discuss the making of his new EP, "Piano Pieces". A collaboration honoring lineage by sampling his father, Hans Peter Neergård.</p>
 <p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://olburgerbeats.bandcamp.com/album/piano-pieces">Ol' Burger Beats</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>GENA — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=906</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=906</guid>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42753974_0.jpg" alt="" /></p>
-<p>GENA (Karriem Riggins and Liv.e) drop by on Bandcamp Selects</p>
-<p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href=https://genagenagena.bandcamp.com/album/the-pleasure-is-yours>GENA</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
