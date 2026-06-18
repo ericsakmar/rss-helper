@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Thu, 18 Jun 2026 14:49:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 20:12:45 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Sleepbomb — The Metal Show</title>
+      <link>https://bandcamp.com/radio?show=957</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=957</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45346859_0.jpg" alt="" /></p>
+<p>Tim Gotch and Charlie Hernandez from the San Francisco "cinematic doom" band Sleepbomb join the show to talk about their heavy movie scores.</p>
+<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://sleepbomb.bandcamp.com/album/songs-in-the-key-of-conan">Sleepbomb</a>.</p>]]></description>
+    </item>
     <item>
       <title>Machinedrum — Bandcamp Electronic</title>
       <link>https://bandcamp.com/radio?show=956</link>
@@ -447,15 +456,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42883129_0.jpg" alt="" /></p>
 <p>Shapeshifting artist Shabaka goes deep talking about his new album</p>
 <p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href="https://shabaka.bandcamp.com/">Shabaka</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Ol&apos; Burger Beats — The Hip Hop Show</title>
-      <link>https://bandcamp.com/radio?show=908</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=908</guid>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42754216_0.jpg" alt="" /></p>
-<p>Ol' Burger Beats joins the show to discuss the making of his new EP, "Piano Pieces". A collaboration honoring lineage by sampling his father, Hans Peter Neergård.</p>
-<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://olburgerbeats.bandcamp.com/album/piano-pieces">Ol' Burger Beats</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
