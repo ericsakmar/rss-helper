@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 22 Jun 2026 16:30:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:35:45 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Guest Host: Lovie — Bandcamp Selects</title>
+      <link>https://bandcamp.com/radio?show=961</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=961</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45503607_0.jpg" alt="" /></p>
+<p>Lovie returns to guest host Bandcamp Selects with another killer offering of jazz and soul.</p>
+<p></p>]]></description>
+    </item>
     <item>
       <title>Sleepbomb — The Metal Show</title>
       <link>https://bandcamp.com/radio?show=957</link>
@@ -447,15 +456,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42897509_0.jpg" alt="" /></p>
 <p>Emily Dust kicks off the first Bandcamp Electronic show with Nathan Fake and Electric Indigo.</p>
 <p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://nathanfake.bandcamp.com/">Nathan Fake</a> and <a href="https://bandcamp.com/electricindigo">Electric Indigo</a></p>]]></description>
-    </item>
-    <item>
-      <title>Shabaka — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=912</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=912</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42883129_0.jpg" alt="" /></p>
-<p>Shapeshifting artist Shabaka goes deep talking about his new album</p>
-<p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href="https://shabaka.bandcamp.com/">Shabaka</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
