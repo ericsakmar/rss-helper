@@ -7,6 +7,7 @@ Personal RSS feeds for sites that do not publish their own. Generated on a sched
 | Feed | Source | URL pattern |
 |------|--------|-------------|
 | Bandcamp Radio | [bandcamp.com/radio](https://bandcamp.com/radio) | `feeds/bandcamp-radio.xml` |
+| Reverb Bass Guitars | [reverb.com/marketplace](https://reverb.com/marketplace?product_type=bass-guitars&sort=published_at%7Cdesc) | `feeds/reverb-bass-guitars.xml` |
 
 After pushing to GitHub and running the workflow once, subscribe in Miniflux using the raw file URL:
 
