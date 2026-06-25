@@ -5,7 +5,7 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Thu, 25 Jun 2026 08:49:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:06:15 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
     <item>
       <title>Lifeguard Takeover — The Indie Show</title>
