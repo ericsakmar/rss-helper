@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 29 Jun 2026 15:32:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 19:44:33 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>The Best Video Game Music of 2026 (So Far) — The Game Show</title>
+      <link>https://bandcamp.com/radio?show=962</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=962</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45750406_0.jpg" alt="" /></p>
+<p>Zoe revisits the most crucial soundtracks of the past six months.</p>
+<p></p>]]></description>
+    </item>
     <item>
       <title>Lifeguard Takeover — The Indie Show</title>
       <link>https://bandcamp.com/radio?show=959</link>
@@ -447,15 +456,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42920744_0.jpg" alt="" /></p>
 <p>Andrew Wasylyk stops by to talk about his new record Irreparable Parables. </p>
 <p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Aly Gillani</a>. Featuring <a href="https://andrewwasylyk.bandcamp.com/">Andrew Wasylyk</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>In Perfect Stillness — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=909</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=909</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42825856_0.jpg" alt="" /></p>
-<p>Anaïs Chareyre-Méjan from Domhain joins the show to chat about the Belfast post-black metal band's debut album.</p>
-<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://domhain-band.bandcamp.com/album/in-perfect-stillness">Domhain</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
