@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 01 Jul 2026 09:30:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:11:04 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Ikonika — Bandcamp Electronic</title>
+      <link>https://bandcamp.com/radio?show=966</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=966</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45749954_0.jpg" alt="" /></p>
+<p>Ikonika joins Emily to talk about their latest release on Club Djembe, why last year's SAD is kind of a debut album and how using their vocals like samples has become an essential part of their music process.</p>
+<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://ikonika.bandcamp.com/">Ikonika</a> and <a href="https://bandcamp.com/bopperson">Neil Bopperson.</a></p>]]></description>
+    </item>
     <item>
       <title>The Best Video Game Music of 2026 (So Far) — The Game Show</title>
       <link>https://bandcamp.com/radio?show=962</link>
@@ -447,15 +456,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43012005_0.jpg" alt="" /></p>
 <p>John Dwyer talks Damaged Bug, OSEES, and more on the inaugural Indie Show with Mariana Timony.</p>
 <p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="https://damagedbug.bandcamp.com/">Damaged Bug</a></p>]]></description>
-    </item>
-    <item>
-      <title>Andrew Wasylyk — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=911</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=911</guid>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42920744_0.jpg" alt="" /></p>
-<p>Andrew Wasylyk stops by to talk about his new record Irreparable Parables. </p>
-<p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Aly Gillani</a>. Featuring <a href="https://andrewwasylyk.bandcamp.com/">Andrew Wasylyk</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
