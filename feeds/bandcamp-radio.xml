@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Thu, 02 Jul 2026 13:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 19:10:57 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Phantom — The Metal Show</title>
+      <link>https://bandcamp.com/radio?show=965</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=965</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45687019_0.jpg" alt="" /></p>
+<p>JC Necrohex, mastermind of Mexican speed metal maniacs Phantom, joins the show to talk about the band's rapid rise.</p>
+<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://phantombandgdl.bandcamp.com/album/not-midnight-yet">Phantom</a>.</p>]]></description>
+    </item>
     <item>
       <title>Ikonika — Bandcamp Electronic</title>
       <link>https://bandcamp.com/radio?show=966</link>
@@ -447,15 +456,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42907788_0.jpg" alt="" /></p>
 <p>Brockton’s own MonaVeli joins the show to talk about her journey, global performances, and her new EP, "Siren EXP26." — a genre-blurring project based in creative freedom.</p>
 <p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://monaveli.bandcamp.com/album/siren-exp26E">MonaVeli</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Damaged Bug — The Indie Show</title>
-      <link>https://bandcamp.com/radio?show=914</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=914</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43012005_0.jpg" alt="" /></p>
-<p>John Dwyer talks Damaged Bug, OSEES, and more on the inaugural Indie Show with Mariana Timony.</p>
-<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="https://damagedbug.bandcamp.com/">Damaged Bug</a></p>]]></description>
     </item>
   </channel>
 </rss>
