@@ -5,7 +5,7 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Sat, 04 Jul 2026 18:57:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 02:10:38 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
     <item>
       <title>Phantom — The Metal Show</title>
