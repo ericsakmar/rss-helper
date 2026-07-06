@@ -5,8 +5,18 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 06 Jul 2026 09:57:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 15:13:56 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Sharada Shashidhar — Bandcamp Selects</title>
+      <link>https://bandcamp.com/radio?show=967</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=967</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45750090_0.jpg" alt="" /></p>
+<p>Los Angeles based vocalist, composer and producer Sharada Shashidhar on her new album, A Foot on the Ground
+</p>
+<p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <a href="https://sharadashashidhar.bandcamp.com/album/a-foot-on-the-ground">Sharada Shashidhar</a>.</p>]]></description>
+    </item>
     <item>
       <title>Phantom — The Metal Show</title>
       <link>https://bandcamp.com/radio?show=965</link>
@@ -447,15 +457,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43217544_0.jpg" alt="" /></p>
 <p>Gregory Uhlmann (SML) celebrates the release of his new solo album. </p>
 <p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href="https://gregoryuhlmann.bandcamp.com/">Gregory Uhlmann</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Ms. Palete Cleanser — The Hip Hop Show</title>
-      <link>https://bandcamp.com/radio?show=910</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=910</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42907788_0.jpg" alt="" /></p>
-<p>Brockton’s own MonaVeli joins the show to talk about her journey, global performances, and her new EP, "Siren EXP26." — a genre-blurring project based in creative freedom.</p>
-<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://monaveli.bandcamp.com/album/siren-exp26E">MonaVeli</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
