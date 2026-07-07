@@ -5,7 +5,7 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Tue, 07 Jul 2026 02:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 09:25:40 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
     <item>
       <title>Sharada Shashidhar — Bandcamp Selects</title>
