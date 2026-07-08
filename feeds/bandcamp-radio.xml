@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 08 Jul 2026 08:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 19:09:32 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Nighttime — The Indie Show</title>
+      <link>https://bandcamp.com/radio?show=960</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=960</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45484418_0.jpg" alt="" /></p>
+<p>Eva Goodman stops by to talk about the new Nighttime record "Looking Glass" plus music writer Sydney Salk on the state of New York DIY.</p>
+<p>Hosted by <a href="https://bandcamp.com/marianatimony">Mariana Timony</a>. Featuring <a href="https://nighttimes.bandcamp.com/album/looking-glass">Nighttime</a>.</p>]]></description>
+    </item>
     <item>
       <title>Sharada Shashidhar — Bandcamp Selects</title>
       <link>https://bandcamp.com/radio?show=967</link>
@@ -448,15 +457,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43218487_0.jpg" alt="" /></p>
 <p>Scratchclart aka Scratcha DVA drops by to talk about Stop Making Edits vol 1.</p>
 <p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://scratchadva.bandcamp.com//">Scratchclart</a> and Rosie Parade.</p>]]></description>
-    </item>
-    <item>
-      <title>Gregory Uhlmann — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=918</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=918</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43217544_0.jpg" alt="" /></p>
-<p>Gregory Uhlmann (SML) celebrates the release of his new solo album. </p>
-<p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href="https://gregoryuhlmann.bandcamp.com/">Gregory Uhlmann</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
