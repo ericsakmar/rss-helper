@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 10 Jul 2026 14:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 19:16:55 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Magna Carda — The Hip Hop Show</title>
+      <link>https://bandcamp.com/radio?show=964</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=964</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45598824_0.jpg" alt="" /></p>
+<p>Austin duo, Magna Carda joins the show to talk inninoutcheamind — the album that brought them back to their jazz roots. Megz Kelli and Dougie Do bring us into their creative process and the vulnerability that shaped this album.</p>
+<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://magnacarda.bandcamp.com/album/inninoutcheamind">Magna Carda</a>.</p>]]></description>
+    </item>
     <item>
       <title>Nighttime — The Indie Show</title>
       <link>https://bandcamp.com/radio?show=960</link>
@@ -448,15 +457,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42937445_0.jpg" alt="" /></p>
 <p>Jake Murphy from the Boston deathrock/heavy metal band Final Gasp joins the show to discuss the band's sophomore LP.</p>
 <p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://finalgasp.bandcamp.com/album/new-day-symptoms">Final Gasp</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Scratchclart — Bandcamp Electronic</title>
-      <link>https://bandcamp.com/radio?show=913</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=913</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43218487_0.jpg" alt="" /></p>
-<p>Scratchclart aka Scratcha DVA drops by to talk about Stop Making Edits vol 1.</p>
-<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://scratchadva.bandcamp.com//">Scratchclart</a> and Rosie Parade.</p>]]></description>
     </item>
   </channel>
 </rss>
