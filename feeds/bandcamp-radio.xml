@@ -5,7 +5,7 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Sat, 11 Jul 2026 18:46:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 01:53:00 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
     <item>
       <title>Magna Carda — The Hip Hop Show</title>
