@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 13 Jul 2026 14:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 19:13:40 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Best Of 2026 So Far... — Bandcamp Selects</title>
+      <link>https://bandcamp.com/radio?show=972</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=972</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46083825_0.jpg" alt="" /></p>
+<p>Gilla selects his tracks of the year so far, featuring music from Martyn, SAULT, Seu Jorge, Izco and more...</p>
+<p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. </p>]]></description>
+    </item>
     <item>
       <title>Magna Carda — The Hip Hop Show</title>
       <link>https://bandcamp.com/radio?show=964</link>
@@ -448,15 +457,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43218908_0.jpg" alt="" /></p>
 <p>Joshua Idehen talks about unexpected success, his storied back catalogue and his brand new LP.</p>
 <p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Aly Gillani</a>. Featuring <a href="https://joshuaidehen.bandcamp.com/">Joshua Idehen</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Final Gasp — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=915</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=915</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/42937445_0.jpg" alt="" /></p>
-<p>Jake Murphy from the Boston deathrock/heavy metal band Final Gasp joins the show to discuss the band's sophomore LP.</p>
-<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://finalgasp.bandcamp.com/album/new-day-symptoms">Final Gasp</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
