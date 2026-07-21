@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 20 Jul 2026 02:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 01:50:20 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Gary Bartz — Bandcamp Weekly</title>
+      <link>https://bandcamp.com/radio?show=968</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=968</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46145060_0.jpg" alt="" /></p>
+<p>Living legend Gary Bartz on his collaborative new album with UK group, Your Brother's Keeper. </p>
+<p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <a href=https://garybartz.bandcamp.com>Gary Bartz</a></p>]]></description>
+    </item>
     <item>
       <title>Sam Binga &amp; Addison Groove — Bandcamp Electronic</title>
       <link>https://bandcamp.com/radio?show=969</link>
@@ -448,15 +457,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43435709_0.jpg" alt="" /></p>
 <p>DJ Marfox joins to talk about the new release DJs Di Guetto Vol II on PRÍNCIPE, the importance of community and how a chance meeting on the train changed everything.</p>
 <p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://principediscos.bandcamp.com//">DJ Marfox</a> and <a href="https://bandcamp.com/fafakhan">San Farafina</a></p>]]></description>
-    </item>
-    <item>
-      <title>Shy One — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=919</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=919</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43220587_0.jpg" alt="" /></p>
-<p>We're joined by Shy One to mark her sophomore album, Mali.</p>
-<p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <https://shyone.bandcamp.com/album/mali>Shy One</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
