@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 22 Jul 2026 13:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:58:38 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Jam Bands — The Indie Show</title>
+      <link>https://bandcamp.com/radio?show=973</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=973</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46145024_0.jpg" alt="" /></p>
+<p>Music journalist Grayson Haver Currin stops by the Indie Show to talk all things jam music. There will be Phish.</p>
+<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="https://bandcamp.com/currincy">Grayson Haver Currin</a>.</p>]]></description>
+    </item>
     <item>
       <title>Gary Bartz — Bandcamp Weekly</title>
       <link>https://bandcamp.com/radio?show=968</link>
@@ -448,15 +457,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43314348_0.jpg" alt="" /></p>
 <p>Exodus guitarist Gary Holt discusses the thrash band's four-decade career and their triumphant new album, 'Goliath.'</p>
 <p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://exodus.bandcamp.com/album/goliath">Exodus</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>DJ Marfox — Bandcamp Electronic</title>
-      <link>https://bandcamp.com/radio?show=925</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=925</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43435709_0.jpg" alt="" /></p>
-<p>DJ Marfox joins to talk about the new release DJs Di Guetto Vol II on PRÍNCIPE, the importance of community and how a chance meeting on the train changed everything.</p>
-<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://principediscos.bandcamp.com//">DJ Marfox</a> and <a href="https://bandcamp.com/fafakhan">San Farafina</a></p>]]></description>
     </item>
   </channel>
 </rss>
