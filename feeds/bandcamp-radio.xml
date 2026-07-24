@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 24 Jul 2026 13:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 19:13:45 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Kinrose — The Hip Hop Show</title>
+      <link>https://bandcamp.com/radio?show=979</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=979</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46240870_0.jpg" alt="" /></p>
+<p>Kinrose joins the show to discuss his new EP, "rated pg" with close collaborator, Malik Elijah. We take a deep dive talking about his inspirations, his deep commitment to home, and growth in artistry.</p>
+<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href=" https://kinrose.bandcamp.com/album/rated-pg">Kinrose</a>.</p>]]></description>
+    </item>
     <item>
       <title>Jam Bands — The Indie Show</title>
       <link>https://bandcamp.com/radio?show=973</link>
@@ -448,15 +457,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43675562_0.jpg" alt="" /></p>
 <p>The Holophonics' Eric Daino breaks down the band's recent "Parking Garage Rally Circuit" OST on The Game Show's inaugural episode.</p>
 <p>Hosted by <a href="https://bandcamp.com/jzcamp"_blank">Zoe Camp</a>. Featuring <a href="https://theholophonics.bandcamp.com//">The Holophonics</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Exodus — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=926</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=926</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43314348_0.jpg" alt="" /></p>
-<p>Exodus guitarist Gary Holt discusses the thrash band's four-decade career and their triumphant new album, 'Goliath.'</p>
-<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://exodus.bandcamp.com/album/goliath">Exodus</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
