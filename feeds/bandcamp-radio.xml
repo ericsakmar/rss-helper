@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 27 Jul 2026 14:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:14:16 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Akusmi with Guest Host Paul Hanford — Bandcamp Selects</title>
+      <link>https://bandcamp.com/radio?show=980</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=980</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46257317_0.jpg" alt="" /></p>
+<p>Guest host Paul Hanford talks with Akusmi about their new record.</p>
+<p></p>]]></description>
+    </item>
     <item>
       <title>Kinrose — The Hip Hop Show</title>
       <link>https://bandcamp.com/radio?show=979</link>
@@ -448,15 +457,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43436560_0.jpg" alt="" /></p>
 <p>Glenn Donaldson of The Reds, Pinks & Purples chats with Mariana about his new full-length, the San Francisco music scene, and more.</p>
 <p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="https://theredspinksandpurples.bandcamp.com/">The Reds, Pinks & Purples</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Eric Daino (The Holophonics) — The Game Show</title>
-      <link>https://bandcamp.com/radio?show=927</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=927</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43675562_0.jpg" alt="" /></p>
-<p>The Holophonics' Eric Daino breaks down the band's recent "Parking Garage Rally Circuit" OST on The Game Show's inaugural episode.</p>
-<p>Hosted by <a href="https://bandcamp.com/jzcamp"_blank">Zoe Camp</a>. Featuring <a href="https://theholophonics.bandcamp.com//">The Holophonics</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
