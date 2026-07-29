@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 29 Jul 2026 13:47:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 18:59:16 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>DJ Plead — Bandcamp Electronic</title>
+      <link>https://bandcamp.com/radio?show=976</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=976</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46144968_0.jpg" alt="" /></p>
+<p>In a departure from his club sound, DJ Plead joins Emily Dust to talk about his new album Please, drawn from over 120 demos and inspired in part by his Lebanese heritage.</p>
+<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://djplead.bandcamp.com/album/please">DJ Plead</a> and <a href="https://bandcamp.com/androosh">Androosh.</a></p>]]></description>
+    </item>
     <item>
       <title>Akusmi with Guest Host Paul Hanford — Bandcamp Selects</title>
       <link>https://bandcamp.com/radio?show=980</link>
@@ -448,15 +457,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43219394_0.jpg" alt="" /></p>
 <p>This week, Ras Kass joins us in conversation around his latest release Leopard Eats Face—exploring lyricism, legacy, and what it means to create with intention in today’s world.</p>
 <p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://raskass.bandcamp.com/music">Ras Kass</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>The Reds, Pinks &amp; Purples — The Indie Show</title>
-      <link>https://bandcamp.com/radio?show=924</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=924</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43436560_0.jpg" alt="" /></p>
-<p>Glenn Donaldson of The Reds, Pinks & Purples chats with Mariana about his new full-length, the San Francisco music scene, and more.</p>
-<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="https://theredspinksandpurples.bandcamp.com/">The Reds, Pinks & Purples</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
