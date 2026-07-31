@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 31 Jul 2026 13:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:09:59 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Ealdor Bealu — The Metal Show</title>
+      <link>https://bandcamp.com/radio?show=977</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=977</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46144942_0.jpg" alt="" /></p>
+<p>Carson Russell and Rylie Collingwood from the Boise psychedelic doom band Ealdor Bealu talk about the high desert, shooting their own Western, and their heavy new album for Ripple Music.</p>
+<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://ealdorbealu.bandcamp.com/album/graves-of-the-silent-plain">Ealdor Bealu</a>.</p>]]></description>
+    </item>
     <item>
       <title>DJ Plead — Bandcamp Electronic</title>
       <link>https://bandcamp.com/radio?show=976</link>
@@ -448,15 +457,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43221206_0.jpg" alt="" /></p>
 <p>The UK's poet laureate Simon Armitage celebrates the new album from his band L.Y.R. </p>
 <p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href="https://lyrband.bandcamp.com/">L.Y.R</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>The Truth Speaker — The Hip Hop Show</title>
-      <link>https://bandcamp.com/radio?show=916</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=916</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43219394_0.jpg" alt="" /></p>
-<p>This week, Ras Kass joins us in conversation around his latest release Leopard Eats Face—exploring lyricism, legacy, and what it means to create with intention in today’s world.</p>
-<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://raskass.bandcamp.com/music">Ras Kass</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
