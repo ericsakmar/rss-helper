@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 05 Aug 2026 13:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 19:16:13 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Surf Music — The Indie Show</title>
+      <link>https://bandcamp.com/radio?show=974</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=974</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46433802_0.jpg" alt="" /></p>
+<p>Eric Penna of psych trio Trabants talks all things surf and instrumental 60s music.</p>
+<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="https://trabants.bandcamp.com/">Trabants</a>.</p>]]></description>
+    </item>
     <item>
       <title>Terri Lyne Carrington — Bandcamp Weekly</title>
       <link>https://bandcamp.com/radio?show=971</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43750718_0.jpg" alt="" /></p>
 <p>Tati Salazar and Pierce Jordan from Philadelphia hardcore scorchers Commitment join the show to talk about the band's debut LP.</p>
 <p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://commitmentphl.bandcamp.com/album/fear-of">Commitment</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Love In The Endz — Bandcamp Electronic</title>
-      <link>https://bandcamp.com/radio?show=929</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=929</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44026171_0.jpg" alt="" /></p>
-<p>Love In The Endz showcase their latest release with TLS PRODUÇÕES collective from Lisbon</p>
-<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://loveintheendz.bandcamp.com//">Love In The Endz presenting TLS PRODUÇÕES</a> and <a href="https://ladame.bandcamp.com/">La Dame</a></p>]]></description>
     </item>
   </channel>
 </rss>
