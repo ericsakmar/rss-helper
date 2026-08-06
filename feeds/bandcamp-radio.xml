@@ -5,7 +5,7 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 05 Aug 2026 19:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 01:45:29 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
     <item>
       <title>Surf Music — The Indie Show</title>
