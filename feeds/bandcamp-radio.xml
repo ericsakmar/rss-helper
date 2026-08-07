@@ -5,7 +5,7 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 07 Aug 2026 12:41:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 18:41:03 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
     <item>
       <title>Surf Music — The Indie Show</title>
@@ -15,6 +15,15 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46433802_0.jpg" alt="" /></p>
 <p>Eric Penna of psych trio Trabants talks all things surf and instrumental 60s music.</p>
 <p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="https://trabants.bandcamp.com/">Trabants</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>MADLIFE — The Hip Hop Show</title>
+      <link>https://bandcamp.com/radio?show=981</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=981</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46434438_0.jpg" alt="" /></p>
+<p>Cleveland's own 12k Gotti joins The Hip Hop Show to talk MADLIFE — his new mixtape that's honest, unfiltered, and describes his experience in his city through a raw lense.</p>
+<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://10kglobal.bandcamp.com/album/madlife">12k Gotti</a>.</p>]]></description>
     </item>
     <item>
       <title>Terri Lyne Carrington — Bandcamp Weekly</title>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44314564_0.jpg" alt="" /></p>
 <p>Ego Ella May stops by to talk about her new album Good Intentions.</p>
 <p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. Featuring <a href="https://egoellamay.bandcamp.com/">Ego Ella May</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Commitment — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=928</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=928</guid>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/43750718_0.jpg" alt="" /></p>
-<p>Tati Salazar and Pierce Jordan from Philadelphia hardcore scorchers Commitment join the show to talk about the band's debut LP.</p>
-<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://commitmentphl.bandcamp.com/album/fear-of">Commitment</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
