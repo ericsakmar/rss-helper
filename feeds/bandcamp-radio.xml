@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 12 Aug 2026 12:46:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 18:49:48 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Best of the year so far — Bandcamp Electronic</title>
+      <link>https://bandcamp.com/radio?show=982</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=982</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46535032_0.jpg" alt="" /></p>
+<p>Emily Dust selects the best electronic tracks of the year so far plus highlights from some of our guest interviews including Marfox, Karen Nyame KG and Machinedrum</p>
+<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>.</p>]]></description>
+    </item>
     <item>
       <title>Agile Experiments — Bandcamp Selects</title>
       <link>https://bandcamp.com/radio?show=985</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44352876_0.jpg" alt="" /></p>
 <p>Bronx's very own, Mark Saunders joins the show to discuss his new EP, "In Due Time." Mark shares insight into his inner world, the emotional layers within his music, and what it means to trust your timing as it unfolds.</p>
 <p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://marksaunders1.bandcamp.com/album/in-due-time-2">Mark Saunders</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Weird Nightmare — The Indie Show</title>
-      <link>https://bandcamp.com/radio?show=930</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=930</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44316640_0.jpg" alt="" /></p>
-<p>Alex Edkins of Weird Nightmare talks latest full-length "Hoopla" plus we hear new tracks from Spacemoth, Hedge Burners, and more.</p>
-<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="http://weirdnightmare.bandcamp.com/">Weird Nightmare</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
