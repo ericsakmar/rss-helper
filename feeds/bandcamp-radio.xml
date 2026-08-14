@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 14 Aug 2026 12:43:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:41:25 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Abyssal Rift — The Metal Show</title>
+      <link>https://bandcamp.com/radio?show=983</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=983</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46432717_0.jpg" alt="" /></p>
+<p>Matt Auxier from Abyssal Rift joins the show to talk about the band's second LP of industrial-inflected death/doom, plus his musical past lives in prog, psych, punk, and EBM.</p>
+<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://abyssalrift-label.bandcamp.com/album/relics-of-great-ash">Abyssal Rift</a>.</p>]]></description>
+    </item>
     <item>
       <title>Best of the year so far — Bandcamp Electronic</title>
       <link>https://bandcamp.com/radio?show=982</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44462056_0.jpg" alt="" /></p>
 <p>Margate band Pigeon celebrate the release of their hotly-anticipated debut album, OUTTANATIONAL.</p>
 <p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <https://pigeon-uk.bandcamp.com/album/outtanational>Pigeon</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Seed Of The Holy Mecca — The Hip Hop Show</title>
-      <link>https://bandcamp.com/radio?show=931</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=931</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44352876_0.jpg" alt="" /></p>
-<p>Bronx's very own, Mark Saunders joins the show to discuss his new EP, "In Due Time." Mark shares insight into his inner world, the emotional layers within his music, and what it means to trust your timing as it unfolds.</p>
-<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://marksaunders1.bandcamp.com/album/in-due-time-2">Mark Saunders</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
