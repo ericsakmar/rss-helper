@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 17 Aug 2026 12:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 18:24:06 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Ancient Infinity Orchestra — Bandcamp Weekly</title>
+      <link>https://bandcamp.com/radio?show=984</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=984</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46534552_0.jpg" alt="" /></p>
+<p>Ancient Infinity Orchestra talk to Tina Edwards about their new album and the Leeds music scene</p>
+<p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>.  Featuring <a href=https://ancientinfinityorchestra.bandcamp.com/>Ancient Infinity Orchestra</a></p>]]></description>
+    </item>
     <item>
       <title>Abyssal Rift — The Metal Show</title>
       <link>https://bandcamp.com/radio?show=983</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44354894_0.jpg" alt="" /></p>
 <p>Kiioto talk about the release of their second album Black Salt, touching on deeply human themes like space, heritage and time, as well as how it differs from their previous work with Lamb and Urban Cookie Collective in the 90s.</p>
 <p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://kiioto.bandcamp.com/album/black-salt">Kiioto</a> and <a href="https://bandcamp.com/daferwa">Daferwa</a></p>]]></description>
-    </item>
-    <item>
-      <title>Pigeon — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=941</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=941</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44462056_0.jpg" alt="" /></p>
-<p>Margate band Pigeon celebrate the release of their hotly-anticipated debut album, OUTTANATIONAL.</p>
-<p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <https://pigeon-uk.bandcamp.com/album/outtanational>Pigeon</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
