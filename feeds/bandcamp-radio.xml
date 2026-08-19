@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 19 Aug 2026 12:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:20:27 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Ty Segall Takeover — The Indie Show</title>
+      <link>https://bandcamp.com/radio?show=975</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=975</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46144994_0.jpg" alt="" /></p>
+<p>Ty Segall takes over The Indie Show ahead of the release of "Chrome," playing favorite tracks from artists new and old. Dig it!</p>
+<p>Hosted by <a href="http://tysegall.bandcamp.com/"_blank">Ty Segall</a>.</p>]]></description>
+    </item>
     <item>
       <title>Ancient Infinity Orchestra — Bandcamp Weekly</title>
       <link>https://bandcamp.com/radio?show=984</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44354833_0.jpg" alt="" /></p>
 <p>Immolation guitarist Bob Vigna discusses the New York death metal band's 35-year reign and the making of their latest album.</p>
 <p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://immolation.bandcamp.com/album/descent">Immolation</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Kiioto — Bandcamp Electronic</title>
-      <link>https://bandcamp.com/radio?show=932</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=932</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44354894_0.jpg" alt="" /></p>
-<p>Kiioto talk about the release of their second album Black Salt, touching on deeply human themes like space, heritage and time, as well as how it differs from their previous work with Lamb and Urban Cookie Collective in the 90s.</p>
-<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://kiioto.bandcamp.com/album/black-salt">Kiioto</a> and <a href="https://bandcamp.com/daferwa">Daferwa</a></p>]]></description>
     </item>
   </channel>
 </rss>
