@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 21 Aug 2026 12:27:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 18:23:19 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>DOOMED! — The Hip Hop Show</title>
+      <link>https://bandcamp.com/radio?show=989</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=989</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46798003_0.jpg" alt="" /></p>
+<p>Two decades of friendship, one first full-length album: Open Mike Eagle & Kenny Segal's DOOMED! Heartbreak turns into a smooth journey. A multiverse-spanning dark comedy over dusty, jazz-soaked production. A masterpiece.</p>
+<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://openmikeeagle.bandcamp.com/album/doomed">Open Mike Eagle & Kenny Segal</a>.</p>]]></description>
+    </item>
     <item>
       <title>Ty Segall Takeover — The Indie Show</title>
       <link>https://bandcamp.com/radio?show=975</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44376069_0.jpg" alt="" /></p>
 <p>Bel Cobain stops by to talk about her new EP Kizzy.</p>
 <p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. Featuring <a href="https://belcobain.bandcamp.com/">Bel Cobain</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Immolation — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=933</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=933</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44354833_0.jpg" alt="" /></p>
-<p>Immolation guitarist Bob Vigna discusses the New York death metal band's 35-year reign and the making of their latest album.</p>
-<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://immolation.bandcamp.com/album/descent">Immolation</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
