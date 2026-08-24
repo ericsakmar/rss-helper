@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 24 Aug 2026 12:29:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:26:23 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Daptone Records — Bandcamp Selects</title>
+      <link>https://bandcamp.com/radio?show=992</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=992</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46863511_0.jpg" alt="" /></p>
+<p>Neal Sugarman stops by to celebrate 25 years of his label Daptone Records.</p>
+<p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. Featuring <a href="https://daptonerecords.bandcamp.com/">Neal Sugarman</a>.</p>]]></description>
+    </item>
     <item>
       <title>DOOMED! — The Hip Hop Show</title>
       <link>https://bandcamp.com/radio?show=989</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44376193_0.jpg" alt="" /></p>
 <p>Tim Presley talks about the new record from White Fence plus we hear fresh tracks from Horse Lords, Las Robertas, Rosali, and more.</p>
 <p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="http://whitefence.bandcamp.com/">White Fence</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Bel Cobain — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=935</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=935</guid>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44376069_0.jpg" alt="" /></p>
-<p>Bel Cobain stops by to talk about her new EP Kizzy.</p>
-<p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. Featuring <a href="https://belcobain.bandcamp.com/">Bel Cobain</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
