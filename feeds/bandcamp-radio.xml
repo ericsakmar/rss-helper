@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 26 Aug 2026 06:32:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:33:01 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Zainab — Bandcamp Electronic</title>
+      <link>https://bandcamp.com/radio?show=996</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=996</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46863959_0.jpg" alt="" /></p>
+<p>NYC DJ and producer Zainab joins Emily Dust to talk about her debut EP 'Canal View' on Ninja Tune’s Technicolour imprint.</p>
+<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://zainab.bandcamp.com/album/canal-view">Zainab</a> and <a href=" https://bandcamp.com/djteedolove ">Teedo Love.</a></p>]]></description>
+    </item>
     <item>
       <title>Daptone Records — Bandcamp Selects</title>
       <link>https://bandcamp.com/radio?show=992</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44394561_0.jpg" alt="" /></p>
 <p>On this episode, Des Moines rapper Teller Bank$ joins the show to unpack the raw & personal world of his newest release, "Hate Island." With over 30 releases and an unrelenting creative vision, he's added another gem to his dynamic catalog.</p>
 <p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://tellerbanks.bandcamp.com/album/hate-island">Teller Bank$</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>White Fence — The Indie Show</title>
-      <link>https://bandcamp.com/radio?show=936</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=936</guid>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44376193_0.jpg" alt="" /></p>
-<p>Tim Presley talks about the new record from White Fence plus we hear fresh tracks from Horse Lords, Las Robertas, Rosali, and more.</p>
-<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="http://whitefence.bandcamp.com/">White Fence</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
