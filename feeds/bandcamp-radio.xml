@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 28 Aug 2026 01:55:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:55:14 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Kulk — The Metal Show</title>
+      <link>https://bandcamp.com/radio?show=987</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=987</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46797992_0.jpg" alt="" /></p>
+<p>Thom Longdin and Jade Ashleigh Squires of the UK sludge duo Kulk discuss their gutting new album, 'Choosing to Die.'</p>
+<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://kulk.bandcamp.com/album/choosing-to-die">Kulk</a>.</p>]]></description>
+    </item>
     <item>
       <title>Zainab — Bandcamp Electronic</title>
       <link>https://bandcamp.com/radio?show=996</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44617205_0.jpg" alt="" /></p>
 <p>London-based South African producer, DJ and sound designer Esa Williams drops by</p>
 <p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <https://esawilliams.bandcamp.com/>Esa Williams</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>The Father &amp; Magician — The Hip Hop Show</title>
-      <link>https://bandcamp.com/radio?show=939</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=939</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44394561_0.jpg" alt="" /></p>
-<p>On this episode, Des Moines rapper Teller Bank$ joins the show to unpack the raw & personal world of his newest release, "Hate Island." With over 30 releases and an unrelenting creative vision, he's added another gem to his dynamic catalog.</p>
-<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://tellerbanks.bandcamp.com/album/hate-island">Teller Bank$</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
