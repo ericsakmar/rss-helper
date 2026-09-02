@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 02 Sep 2026 10:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:40:04 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>This is Lorelei — The Indie Show</title>
+      <link>https://bandcamp.com/radio?show=986</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=986</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46863072_0.jpg" alt="" /></p>
+<p>Nate Amos of This is Lorelei talks about "The Singer in My Band" plus we hear new tracks from Pardoner, The Drin, Dummy, and more.</p>
+<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="https://thisislorelei.bandcamp.com/">This is Lorelei</a>.</p>]]></description>
+    </item>
     <item>
       <title>Tee Lopes — The Game Show</title>
       <link>https://bandcamp.com/radio?show=995</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44574713_0.jpg" alt="" /></p>
 <p>Jonas Björler joins the show to discuss the powerful final album from At the Gates and the musical legacy of the band's fallen frontman, Tomas Lindberg.</p>
 <p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://centurymedia.bandcamp.com/album/the-ghost-of-a-future-dead-24-bit-hd-audio">At the Gates</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Branko and Kalaf Epalanga — Bandcamp Electronic</title>
-      <link>https://bandcamp.com/radio?show=944</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=944</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44617630_0.jpg" alt="" /></p>
-<p>Branko and Kalaf Epalanga join Emily to celebrate 20 years of their label Enchufada and of their pioneering band Buraka Som Sistema. They talk about doing it DIY, building a global community and the cultural element of club music.</p>
-<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://enchufada.bandcamp.com/">Branko and Kalaf Epalanga</a> and <a href="https://bandcamp.com/mahnoorthefirst">Mahnoor</a></p>]]></description>
     </item>
   </channel>
 </rss>
