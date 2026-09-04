@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 04 Sep 2026 10:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:28:24 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Michael Christmas, Chris Crack &amp; Girl Talk — The Hip Hop Show</title>
+      <link>https://bandcamp.com/radio?show=990</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=990</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46863012_0.jpg" alt="" /></p>
+<p>Girl Talk, Michael Christmas & Chris Crack join the show to chat about their new EP, "Don't Come To My House Sharing Your Location." — colorful, detailed, and genuinely fun, built on bars and nonstop ish talking.</p>
+<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://girltalkmusic.bandcamp.com/album/dont-come-to-my-house-sharing-your-location">Girl Talk, Michael Christmas, & Chris Crack</a>.</p>]]></description>
+    </item>
     <item>
       <title>This is Lorelei — The Indie Show</title>
       <link>https://bandcamp.com/radio?show=986</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44871596_0.jpg" alt="" /></p>
 <p>Blue Lab Beats join us to talk about a decade in music, their community roots and making the most 'London' album that they could.</p>
 <p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. Featuring <a href="https://bluelabbeats.bandcamp.com/">Blue Lab Beats</p>]]></description>
-    </item>
-    <item>
-      <title>At the Gates — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=945</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=945</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44574713_0.jpg" alt="" /></p>
-<p>Jonas Björler joins the show to discuss the powerful final album from At the Gates and the musical legacy of the band's fallen frontman, Tomas Lindberg.</p>
-<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://centurymedia.bandcamp.com/album/the-ghost-of-a-future-dead-24-bit-hd-audio">At the Gates</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
