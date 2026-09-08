@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Tue, 08 Sep 2026 10:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:41:58 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>corto.alto  — Bandcamp Weekly</title>
+      <link>https://bandcamp.com/radio?show=993</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=993</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46932576_0.jpg" alt="" /></p>
+<p>corto.alto joins Tina Edwards to celebrate the new album, Some Small Fortune</p>
+<p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>.  Featuring <https://cortoalto.bandcamp.com/>corto.alto</a></p>]]></description>
+    </item>
     <item>
       <title>Don&apos;t Come To My House Sharing Your Location — The Hip Hop Show</title>
       <link>https://bandcamp.com/radio?show=990</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44376416_0.jpg" alt="" /></p>
 <p>It's a '60s hit parade when The Lemon Twigs stop by The Indie Show. Satisfaction guaranteed!</p>
 <p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="https://thelemontwigs.bandcamp.com/">The Lemon Twigs</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Blue Lab Beats — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=949</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=949</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44871596_0.jpg" alt="" /></p>
-<p>Blue Lab Beats join us to talk about a decade in music, their community roots and making the most 'London' album that they could.</p>
-<p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. Featuring <a href="https://bluelabbeats.bandcamp.com/">Blue Lab Beats</p>]]></description>
     </item>
   </channel>
 </rss>
