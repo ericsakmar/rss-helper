@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 09 Sep 2026 10:26:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:36:43 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Dkay.wav — Bandcamp Electronic</title>
+      <link>https://bandcamp.com/radio?show=997</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=997</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/47068272_0.jpg" alt="" /></p>
+<p>London-based DJ and producer Dkay.wav passes through to talk about his debut EP on Patterns.</p>
+<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://dkaywav.bandcamp.com/">Dkay.wav</a> and <a href="https://bandcamp.com/izzi_thein">Izzi.</a></p>]]></description>
+    </item>
     <item>
       <title>corto.alto  — Bandcamp Weekly</title>
       <link>https://bandcamp.com/radio?show=993</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44915264_0.jpg" alt="" /></p>
 <p>Ahwlee, the Long Beach beatmaker joins the show to chat FTRS_pt.6 – six chapters deep into one of underground hip hop's most essential series. We sat down to talk craft, inspiration, and making music entirely on his own terms.</p>
 <p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://bumps.bandcamp.com/album/ftrs-pt-6">Ahwlee</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>The Lemon Twigs — The Indie Show</title>
-      <link>https://bandcamp.com/radio?show=938</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=938</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44376416_0.jpg" alt="" /></p>
-<p>It's a '60s hit parade when The Lemon Twigs stop by The Indie Show. Satisfaction guaranteed!</p>
-<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="https://thelemontwigs.bandcamp.com/">The Lemon Twigs</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
