@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 11 Sep 2026 10:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:34:18 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Di&apos;Anno: Iron Maiden&apos;s Lost Singer — The Metal Show</title>
+      <link>https://bandcamp.com/radio?show=998</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=998</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46976049_0.jpg" alt="" /></p>
+<p>Filmmaker Wes Orshoski joins the show to talk about his new documentary about the late Iron Maiden singer Paul Di'Anno.</p>
+<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://cleopatrarecords.bandcamp.com/album/dianno-iron-maidens-lost-singer">Wes Orshoski</a>.</p>]]></description>
+    </item>
     <item>
       <title>Dkay.wav — Bandcamp Electronic</title>
       <link>https://bandcamp.com/radio?show=997</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44465290_0.jpg" alt="" /></p>
 <p>Indonesia's Thee Marloes mark their sophomore album, Di Hotel Malibu.</p>
 <p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <https://theemarloes.bandcamp.com/>Thee Marloes</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>This For U — The Hip Hop Show</title>
-      <link>https://bandcamp.com/radio?show=946</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=946</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44915264_0.jpg" alt="" /></p>
-<p>Ahwlee, the Long Beach beatmaker joins the show to chat FTRS_pt.6 – six chapters deep into one of underground hip hop's most essential series. We sat down to talk craft, inspiration, and making music entirely on his own terms.</p>
-<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://bumps.bandcamp.com/album/ftrs-pt-6">Ahwlee</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
