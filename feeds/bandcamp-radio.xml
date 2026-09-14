@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 14 Sep 2026 11:17:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:17:11 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Children Of Zeus — Bandcamp Selects</title>
+      <link>https://bandcamp.com/radio?show=999</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=999</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/47250448_0.jpg" alt="" /></p>
+<p>For Gilla's final show, UK soul group Children Of Zeus stop by to talk about their new record 'As The World Burns'.</p>
+<p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. Featuring <a href="https://childrenofzeus.bandcamp.com/">Children Of Zeus</a>.</p>]]></description>
+    </item>
     <item>
       <title>Di&apos;Anno: Iron Maiden&apos;s Lost Singer — The Metal Show</title>
       <link>https://bandcamp.com/radio?show=998</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44932303_0.jpg" alt="" /></p>
 <p>Ivorian DJ and producer Asna joins Emily to talk about her new EP Bring Back Rave In Town</p>
 <p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://asna.bandcamp.com/album/rave-in-town">Asna</a> and <a href="https://bandcamp.com/hutchohutchoman">Kate Hutchinson.</a></p>]]></description>
-    </item>
-    <item>
-      <title>Thee Marloes — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=942</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=942</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44465290_0.jpg" alt="" /></p>
-<p>Indonesia's Thee Marloes mark their sophomore album, Di Hotel Malibu.</p>
-<p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <https://theemarloes.bandcamp.com/>Thee Marloes</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
