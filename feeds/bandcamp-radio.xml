@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 16 Sep 2026 10:31:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:48:30 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Frankie Rose — The Indie Show</title>
+      <link>https://bandcamp.com/radio?show=978</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=978</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46534747_0.jpg" alt="" /></p>
+<p>Underground legend Frankie Rose stops by to talk about the inspirations behind her new record, "Hila," plus new tracks from Public Figures, Stef Chura, TV Buddha, and more.</p>
+<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="http://frankierose.bandcamp.com/">Frankie Rose</a>.</p>]]></description>
+    </item>
     <item>
       <title>Children Of Zeus — Bandcamp Selects</title>
       <link>https://bandcamp.com/radio?show=999</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44932615_0.jpg" alt="" /></p>
 <p>A wide array of guests joined host Brad Sanders for interviews at this year's Northwest Terror Fest in Seattle, including members of Kylesa, Dungeon Serpent, and Serpent Rider, plus fest organizer Joseph Schafer.</p>
 <p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://kylesamusic.bandcamp.com/">Kylesa</a>, <a href="http://dungeonserpentmdm.bandcamp.com/">Dungeon Serpent</a>, and <a href="https://serpentrider.bandcamp.com/">Serpent Rider</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Asna — Bandcamp Electronic</title>
-      <link>https://bandcamp.com/radio?show=948</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=948</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44932303_0.jpg" alt="" /></p>
-<p>Ivorian DJ and producer Asna joins Emily to talk about her new EP Bring Back Rave In Town</p>
-<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://asna.bandcamp.com/album/rave-in-town">Asna</a> and <a href="https://bandcamp.com/hutchohutchoman">Kate Hutchinson.</a></p>]]></description>
     </item>
   </channel>
 </rss>
