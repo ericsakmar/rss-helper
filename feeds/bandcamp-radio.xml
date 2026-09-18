@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 18 Sep 2026 10:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:29:24 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Saul Williams — The Hip Hop Show</title>
+      <link>https://bandcamp.com/radio?show=1000</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1000</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/47269541_0.jpg" alt="" /></p>
+<p>Saul Williams joins The Hip Hop Show to discuss Leap Life, his seventh solo album and first solo release in seven years — an invocation calling in ancestors, grief, rhythm, and what it means to build armor in these times.</p>
+<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://saulwilliams.bandcamp.com/album/leap-life">Saul Williams</a>.</p>]]></description>
+    </item>
     <item>
       <title>Frankie Rose — The Indie Show</title>
       <link>https://bandcamp.com/radio?show=978</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45004647_0.jpg" alt="" /></p>
 <p>Seu Jorge joins us to talk about his new album The Other Side.</p>
 <p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. Featuring <a href="https://seujorge.bandcamp.com/">Seu Jorge</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Northwest Terror Fest — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=947</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=947</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44932615_0.jpg" alt="" /></p>
-<p>A wide array of guests joined host Brad Sanders for interviews at this year's Northwest Terror Fest in Seattle, including members of Kylesa, Dungeon Serpent, and Serpent Rider, plus fest organizer Joseph Schafer.</p>
-<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://kylesamusic.bandcamp.com/">Kylesa</a>, <a href="http://dungeonserpentmdm.bandcamp.com/">Dungeon Serpent</a>, and <a href="https://serpentrider.bandcamp.com/">Serpent Rider</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
