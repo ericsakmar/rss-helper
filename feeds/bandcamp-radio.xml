@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 23 Sep 2026 10:30:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 15:49:02 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>The Last Skeptik — Bandcamp Electronic</title>
+      <link>https://bandcamp.com/radio?show=1002</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1002</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/47269660_0.jpg" alt="" /></p>
+<p>Rapper, producer, DJ and screenwriter The Last Skeptik joins Emily to break down his new album Unreliable Narrator and his journey from beatmaker for the likes of Kojey Radical, Scrufizzer and Mikill Pane to making his own drama series Tiny Romances and writing for Hollywood.</p>
+<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://thelastskeptik.bandcamp.com/music">The Last Skeptik</a> and <a href="https://bandcamp.com/tinaedwards">Tina Edwards.</a></p>]]></description>
+    </item>
     <item>
       <title>Orchestra Mambo International  — Bandcamp Selects</title>
       <link>https://bandcamp.com/radio?show=994</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45004672_0.jpg" alt="" /></p>
 <p>JWords returns to the Hip Hop Show to reflect on her new album, "Sound Therapy." — a solo project born from her Saturn return, built on portable hardware, and rooted in Electronic sounds as healing.</p>
 <p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://jwords.bandcamp.com/album/sound-therapy">JWords</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Winston Hightower — The Indie Show</title>
-      <link>https://bandcamp.com/radio?show=937</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=937</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44376601_0.jpg" alt="" /></p>
-<p>Guest DJ Martin Douglas talks to Winston Hightower about new record "100 Acre Wood."</p>
-<p>Hosted by <a href="https://bandcamp.com/martindouglas"_blank">Martin Douglas</a>. Featuring <a href="https://winstonhightower.bandcamp.com/">Winston Hightower</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
