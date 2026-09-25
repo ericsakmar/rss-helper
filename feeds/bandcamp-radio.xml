@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 25 Sep 2026 10:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:11:06 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Cloven Hoof — The Metal Show</title>
+      <link>https://bandcamp.com/radio?show=1001</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1001</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/47269035_0.jpg" alt="" /></p>
+<p>Lee Payne of New Wave of British Heavy Metal originators Cloven Hoof discusses the long-running band's new album and collaborating with Jag Panzer's Harry "The Tyrant" Conklin.</p>
+<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://clovenhoofnwobhm.bandcamp.com/album/never-a-prophet-in-your-own-land">Cloven Hoof</a>.</p>]]></description>
+    </item>
     <item>
       <title>The Last Skeptik — Bandcamp Electronic</title>
       <link>https://bandcamp.com/radio?show=1002</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44465310_0.jpg" alt="" /></p>
 <p>Jalen Ngonda brings his soulful energy to Bandcamp Selects</p>
 <p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <a href="https://jalenngonda.bandcamp.com/music">Jalen Ngonda</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Era Of Peace — The Hip Hop Show</title>
-      <link>https://bandcamp.com/radio?show=950</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=950</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45004672_0.jpg" alt="" /></p>
-<p>JWords returns to the Hip Hop Show to reflect on her new album, "Sound Therapy." — a solo project born from her Saturn return, built on portable hardware, and rooted in Electronic sounds as healing.</p>
-<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://jwords.bandcamp.com/album/sound-therapy">JWords</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
