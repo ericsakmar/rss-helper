@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 28 Sep 2026 12:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:46:57 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Audrey Powne — Bandcamp Selects</title>
+      <link>https://bandcamp.com/radio?show=1003</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1003</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/47383543_0.jpg" alt="" /></p>
+<p>Tina Edwards invites Melbourne-raised, London-based Audrey Powne to share her new album, Bodies of Water</p>
+<p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href="https://audreypowne.bandcamp.com">Audrey Powne</a>.</p>]]></description>
+    </item>
     <item>
       <title>Cloven Hoof — The Metal Show</title>
       <link>https://bandcamp.com/radio?show=1001</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45043659_0.jpg" alt="" /></p>
 <p>Karen Nyame KG passes through to break down her new EP Epiphany.</p>
 <p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://karennyamekg.bandcamp.com/album/epiphany">Karen Nyame KG</a> and <a href="https://uzurirecordings.bandcamp.com/">Lakuti.</a></p>]]></description>
-    </item>
-    <item>
-      <title>Jalen Ngonda — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=943</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=943</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/44465310_0.jpg" alt="" /></p>
-<p>Jalen Ngonda brings his soulful energy to Bandcamp Selects</p>
-<p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <a href="https://jalenngonda.bandcamp.com/music">Jalen Ngonda</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
