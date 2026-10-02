@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 02 Oct 2026 11:36:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:05:08 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>JIREH — The Hip Hop Show</title>
+      <link>https://bandcamp.com/radio?show=1007</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1007</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/47632685_0.jpg" alt="" /></p>
+<p>JIREH joins the show to talk Rope Burn — an one of one project from the baton rouge native. We discuss the project in full, along with his trajectory as an artist. This is what he was destined for.</p>
+<p>Hosted by <a href="https://stoneycreation.bandcamp.com/"_blank">Stoney Creation</a>. Featuring <a href="https://jirehpc.bandcamp.com/album/rope-burn">JIREH</a>.</p>]]></description>
+    </item>
     <item>
       <title>Dummy — The Indie Show</title>
       <link>https://bandcamp.com/radio?show=988</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45367074_0.jpg" alt="" /></p>
 <p>Martyn stops by to talk about his new album Music For Existing.</p>
 <p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. Featuring <a href="https://martyn.bandcamp.com/">Martyn</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>A.A. Williams — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=953</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=953</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45068254_0.jpg" alt="" /></p>
-<p>The London singer/songwriter A.A. Williams joins the show to talk about her stunning new album, 'Solstice.'</p>
-<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://aawilliams.bandcamp.com/music">A.A. Williams</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
