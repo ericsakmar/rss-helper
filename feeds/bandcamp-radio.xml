@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 05 Oct 2026 13:05:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:29:42 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Megiapa — Bandcamp Selects</title>
+      <link>https://bandcamp.com/radio?show=1004</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1004</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/47428047_0.jpg" alt="" /></p>
+<p>LA's Megiapa talks to Tina Edwards about her debut on International Anthem</p>
+<p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href="https://intlanthem.bandcamp.com/album/intentions">megiapa</a>.</p>]]></description>
+    </item>
     <item>
       <title>JIREH — The Hip Hop Show</title>
       <link>https://bandcamp.com/radio?show=1007</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45283541_0.jpg" alt="" /></p>
 <p>feeble little horse talk about surprise new release "bitknot" plus new tracks from Artificial Go, Eddy Current Suppression Ring, Caroline Rose, and more.</p>
 <p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="http://feeblelittlehorse.bandcamp.com/">feeble little horse</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Martyn — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=958</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=958</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45367074_0.jpg" alt="" /></p>
-<p>Martyn stops by to talk about his new album Music For Existing.</p>
-<p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. Featuring <a href="https://martyn.bandcamp.com/">Martyn</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
