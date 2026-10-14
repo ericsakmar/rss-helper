@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 14 Oct 2026 10:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:12:40 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Caroline Rose — The Indie Show</title>
+      <link>https://bandcamp.com/radio?show=991</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=991</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46863059_0.jpg" alt="" /></p>
+<p>Caroline Rose stops by the Indie Show to talk about self-releasing her latest record plus we hear new tracks from Soup Activists, Chastity Belt, and more.</p>
+<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="http://carolinerosemusic.bandcamp.com/">Caroline Rose</a>.</p>]]></description>
+    </item>
     <item>
       <title>Hermanos Gutiérrez — Bandcamp Weekly</title>
       <link>https://bandcamp.com/radio?show=1009</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45346859_0.jpg" alt="" /></p>
 <p>Tim Gotch and Charlie Hernandez from the San Francisco "cinematic doom" band Sleepbomb join the show to talk about their heavy movie scores.</p>
 <p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://sleepbomb.bandcamp.com/album/songs-in-the-key-of-conan">Sleepbomb</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Machinedrum — Bandcamp Electronic</title>
-      <link>https://bandcamp.com/radio?show=956</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=956</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45483105_0.jpg" alt="" /></p>
-<p>Machinedrum joins Emily to talk about his mini LP 'Blooms', his first independent release in 13 years.</p>
-<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://machinedrum.bandcamp.com/">Machinedrum</a> and <a href="https://bandcamp.com/mzrizk">MzRizk.</a></p>]]></description>
     </item>
   </channel>
 </rss>
