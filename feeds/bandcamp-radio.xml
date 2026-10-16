@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 16 Oct 2026 10:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 15:48:17 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>COMPKILLER VOL.1  — The Hip Hop Show</title>
+      <link>https://bandcamp.com/radio?show=1010</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1010</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/47792404_0.jpg" alt="" /></p>
+<p>This week, on The Hip Hop Show, we listen. Nelson Bandela, 1Alkebulan, and lee hooper share "COMPKILLER VOL.1." A poetic listening experience where three sonic worlds combine.</p>
+<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://nelsonbandela.bandcamp.com/album/-">Nelson Bandela, 1Alkebulan, lee hooper</a>.</p>]]></description>
+    </item>
     <item>
       <title>Caroline Rose — The Indie Show</title>
       <link>https://bandcamp.com/radio?show=991</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45503607_0.jpg" alt="" /></p>
 <p>Lovie returns to guest host Bandcamp Selects with another killer offering of jazz and soul.</p>
 <p></p>]]></description>
-    </item>
-    <item>
-      <title>Sleepbomb — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=957</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=957</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45346859_0.jpg" alt="" /></p>
-<p>Tim Gotch and Charlie Hernandez from the San Francisco "cinematic doom" band Sleepbomb join the show to talk about their heavy movie scores.</p>
-<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://sleepbomb.bandcamp.com/album/songs-in-the-key-of-conan">Sleepbomb</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
