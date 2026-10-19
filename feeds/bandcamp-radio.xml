@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 19 Oct 2026 11:37:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:59:44 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Omasta — Bandcamp Weekly</title>
+      <link>https://bandcamp.com/radio?show=1008</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1008</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/47798096_0.jpg" alt="" /></p>
+<p>Polish band Omasta return with their streetwise, contemporary take on jazz.</p>
+<p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href="https://omasta.bandcamp.com/album/hits-different/">Omasta</a>.</p>]]></description>
+    </item>
     <item>
       <title>COMPKILLER VOL.1  — The Hip Hop Show</title>
       <link>https://bandcamp.com/radio?show=1010</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45484108_0.jpg" alt="" /></p>
 <p>Isaac Lowenstein of Lifeguard is your host for the Chicago trio's takeover of The Indie Show, playing tracks from current and old band favorites.</p>
 <p>Hosted by <a href="http://lifeguardband100.bandcamp.com/" _ blank">Lifeguard</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Guest Host: Lovie — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=961</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=961</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45503607_0.jpg" alt="" /></p>
-<p>Lovie returns to guest host Bandcamp Selects with another killer offering of jazz and soul.</p>
-<p></p>]]></description>
     </item>
   </channel>
 </rss>
