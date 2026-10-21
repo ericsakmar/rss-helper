@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 21 Oct 2026 10:52:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:20:27 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Marla Kether — Bandcamp Electronic</title>
+      <link>https://bandcamp.com/radio?show=1012</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1012</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/48081074_0.jpg" alt="" /></p>
+<p>It's a Lisbon special! DJ, producer and bassist Marla Kether joins Emily to break down the influences on her EP 'Luso' on Strut,  written between the Portuguese capital and Brazil. Plus Emily takes you into heart of the city, reflecting on MiL Lisboa festival and hearing from local artists Zino and PXMP.</p>
+<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://marlakether.bandcamp.com/">Marla Kether</a>, <a href="https://zino4.bandcamp.com/"</a> Zino</a> and <a href="https://patternsmusic-uk.bandcamp.com/">PXMP.</a></p>]]></description>
+    </item>
     <item>
       <title>Omasta — Bandcamp Weekly</title>
       <link>https://bandcamp.com/radio?show=1008</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45750406_0.jpg" alt="" /></p>
 <p>Zoe revisits the most crucial soundtracks of the past six months.</p>
 <p></p>]]></description>
-    </item>
-    <item>
-      <title>Lifeguard Takeover — The Indie Show</title>
-      <link>https://bandcamp.com/radio?show=959</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=959</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45484108_0.jpg" alt="" /></p>
-<p>Isaac Lowenstein of Lifeguard is your host for the Chicago trio's takeover of The Indie Show, playing tracks from current and old band favorites.</p>
-<p>Hosted by <a href="http://lifeguardband100.bandcamp.com/" _ blank">Lifeguard</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
