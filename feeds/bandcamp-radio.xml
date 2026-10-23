@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 23 Oct 2026 10:44:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:09:09 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Fabio Frizzi — The Metal Show</title>
+      <link>https://bandcamp.com/radio?show=1013</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1013</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/48080947_0.jpg" alt="" /></p>
+<p>For the 150th episode of the Metal Show, host Brad Sanders celebrates Halloween with the legendary Italian horror movie composer Fabio Frizzi.</p>
+<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://cinemahotelstudios.bandcamp.com/album/zombi-2-zombie-flesh-eaters-original-motion-picture-soundtrack">Fabio Frizzi</a>.</p>]]></description>
+    </item>
     <item>
       <title>Marla Kether — Bandcamp Electronic</title>
       <link>https://bandcamp.com/radio?show=1012</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45749954_0.jpg" alt="" /></p>
 <p>Ikonika joins Emily to talk about their latest release on Club Djembe, why last year's SAD is kind of a debut album and how using their vocals like samples has become an essential part of their music process.</p>
 <p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://ikonika.bandcamp.com/">Ikonika</a> and <a href="https://bandcamp.com/bopperson">Neil Bopperson.</a></p>]]></description>
-    </item>
-    <item>
-      <title>The Best Video Game Music of 2026 (So Far) — The Game Show</title>
-      <link>https://bandcamp.com/radio?show=962</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=962</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45750406_0.jpg" alt="" /></p>
-<p>Zoe revisits the most crucial soundtracks of the past six months.</p>
-<p></p>]]></description>
     </item>
   </channel>
 </rss>
