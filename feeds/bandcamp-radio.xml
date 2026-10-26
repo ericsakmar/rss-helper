@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 26 Oct 2026 11:55:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:59:16 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Orchestra Baobab — Bandcamp Weekly</title>
+      <link>https://bandcamp.com/radio?show=1019</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1019</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/48137268_0.jpg" alt="" /></p>
+<p>We mark Orchestra Baobab's fifty year milestone with their new album 'Made In Senegal'</p>
+<p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href="https://strut.bandcamp.com/album/made-in-senegal">Orchestra Baobab</a>.</p>]]></description>
+    </item>
     <item>
       <title>Fabio Frizzi — The Metal Show</title>
       <link>https://bandcamp.com/radio?show=1013</link>
@@ -449,15 +458,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45687019_0.jpg" alt="" /></p>
 <p>JC Necrohex, mastermind of Mexican speed metal maniacs Phantom, joins the show to talk about the band's rapid rise.</p>
 <p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://phantombandgdl.bandcamp.com/album/not-midnight-yet">Phantom</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Ikonika — Bandcamp Electronic</title>
-      <link>https://bandcamp.com/radio?show=966</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=966</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45749954_0.jpg" alt="" /></p>
-<p>Ikonika joins Emily to talk about their latest release on Club Djembe, why last year's SAD is kind of a debut album and how using their vocals like samples has become an essential part of their music process.</p>
-<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://ikonika.bandcamp.com/">Ikonika</a> and <a href="https://bandcamp.com/bopperson">Neil Bopperson.</a></p>]]></description>
     </item>
   </channel>
 </rss>
