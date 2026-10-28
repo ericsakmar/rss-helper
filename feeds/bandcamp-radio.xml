@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 28 Oct 2026 11:51:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:40:33 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Tropical Fuck Storm — The Indie Show</title>
+      <link>https://bandcamp.com/radio?show=1014</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1014</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/48080958_0.jpg" alt="" /></p>
+<p>Erica Dunn of Tropical Fuck Storm talks about the Australian band's new live album.</p>
+<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="https://tropicalfstorm.bandcamp.com/">Tropical Fuckstorm</a>.</p>]]></description>
+    </item>
     <item>
       <title>Orchestra Baobab — Bandcamp Weekly</title>
       <link>https://bandcamp.com/radio?show=1019</link>
@@ -449,15 +458,6 @@
 <p>Los Angeles based vocalist, composer and producer Sharada Shashidhar on her new album, A Foot on the Ground
 </p>
 <p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <a href="https://sharadashashidhar.bandcamp.com/album/a-foot-on-the-ground">Sharada Shashidhar</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Phantom — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=965</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=965</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45687019_0.jpg" alt="" /></p>
-<p>JC Necrohex, mastermind of Mexican speed metal maniacs Phantom, joins the show to talk about the band's rapid rise.</p>
-<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://phantombandgdl.bandcamp.com/album/not-midnight-yet">Phantom</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
