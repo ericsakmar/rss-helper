@@ -4,6 +4,15 @@ import type { FeedGenerator } from "./types.js";
 const LIST_URL = "https://bandcamp.com/api/bcweekly/3/list";
 const SITE_URL = "https://bandcamp.com/radio";
 const MAX_EPISODES = 50;
+const MAX_ATTEMPTS = 3;
+
+// Fastly answers Node's default User-Agent with an HTML client challenge
+// (HTTP 200). An identified client receives the JSON episode list.
+const REQUEST_HEADERS = {
+  Accept: "application/json",
+  "User-Agent":
+    "rss-helper/1.0 (+https://github.com/ericsakmar/rss-helper)",
+};
 
 type BandcampRadioEpisode = {
   id: number;
@@ -56,20 +65,48 @@ function toRssItem(episode: BandcampRadioEpisode): RssItem {
   };
 }
 
-async function fetchEpisodes(): Promise<BandcampRadioEpisode[]> {
-  const response = await fetch(LIST_URL);
-  if (!response.ok) {
+function responsePreview(body: string): string {
+  return body.slice(0, 120).replace(/\s+/g, " ").trim();
+}
+
+async function requestEpisodeList(): Promise<ListResponse> {
+  const response = await fetch(LIST_URL, { headers: REQUEST_HEADERS });
+  const body = await response.text();
+
+  if (!response.ok || !body.startsWith("{")) {
     throw new Error(
-      `Bandcamp Radio list request failed: ${response.status} ${response.statusText}`,
+      `Bandcamp Radio list request failed: ${response.status} ${response.statusText}. Body starts with: ${responsePreview(body)}`,
     );
   }
 
-  const data = (await response.json()) as ListResponse;
-  if (!Array.isArray(data.results) || data.results.length === 0) {
-    throw new Error("Bandcamp Radio list returned no episodes");
+  try {
+    return JSON.parse(body) as ListResponse;
+  } catch (error) {
+    throw new Error(
+      `Bandcamp Radio list returned invalid JSON (${response.status}). Body starts with: ${responsePreview(body)}`,
+      { cause: error },
+    );
+  }
+}
+
+async function fetchEpisodes(): Promise<BandcampRadioEpisode[]> {
+  let lastError: Error | undefined;
+
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      const data = await requestEpisodeList();
+      if (!Array.isArray(data.results) || data.results.length === 0) {
+        throw new Error("Bandcamp Radio list returned no episodes");
+      }
+      return data.results.slice(0, MAX_EPISODES);
+    } catch (error) {
+      lastError = error instanceof Error ? error : new Error(String(error));
+      if (attempt === MAX_ATTEMPTS) break;
+      await new Promise((resolve) => setTimeout(resolve, 500 * attempt));
+    }
   }
 
-  return data.results.slice(0, MAX_EPISODES);
+  throw lastError;
 }
 
 export const bandcampRadioFeed: FeedGenerator = {
