@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 02 Nov 2026 14:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:13:06 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Seun Kuti  — Bandcamp Weekly</title>
+      <link>https://bandcamp.com/radio?show=1011</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1011</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/48232019_0.jpg" alt="" /></p>
+<p>Afrobeat icon Seun Kuti gets deep into conversation with Tina Edwards ahead of the release of his new album with Egypt 80</p>
+<p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href="https://seunkutiegypt80.bandcamp.com/">Seun Kuti</a>.</p>]]></description>
+    </item>
     <item>
       <title>New Life — The Hip Hop Show</title>
       <link>https://bandcamp.com/radio?show=1016</link>
@@ -448,15 +457,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45598824_0.jpg" alt="" /></p>
 <p>Austin duo, Magna Carda joins the show to talk inninoutcheamind — the album that brought them back to their jazz roots. Megz Kelli and Dougie Do bring us into their creative process and the vulnerability that shaped this album.</p>
 <p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://magnacarda.bandcamp.com/album/inninoutcheamind">Magna Carda</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Nighttime — The Indie Show</title>
-      <link>https://bandcamp.com/radio?show=960</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=960</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45484418_0.jpg" alt="" /></p>
-<p>Eva Louise Goodman stops by to talk about the new Nighttime record "Looking Glass" plus music writer Sydney Salk on the state of New York DIY.</p>
-<p>Hosted by <a href="https://bandcamp.com/marianatimony">Mariana Timony</a>. Featuring <a href="https://nighttimes.bandcamp.com/album/looking-glass">Nighttime</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
