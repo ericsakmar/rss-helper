@@ -5,8 +5,19 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 04 Nov 2026 13:30:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 23:00:08 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Jamz Supernova — Bandcamp Electronic</title>
+      <link>https://bandcamp.com/radio?show=1022</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1022</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/48354152_0.jpg" alt="" /></p>
+<p>Jamz Supernova joins Emily to celebrate her first album 'Dance Around The World', released on the legendary Mr Bongo label featuring Jus Now, Catu Diosis, EveHive and more. 
+
+Elsewhere there's a Juan Atkins tribute and Emily plays some of her picks from WOMEX festival.</p>
+<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://mrbongo.bandcamp.com/album/jamz-supernova-presents-dance-around-the-world">Jamz Supernova</a>, and <a href="https://pubpelukasnetlabel.bandcamp.com/">Woodhands.</a></p>]]></description>
+    </item>
     <item>
       <title>Seun Kuti  — Bandcamp Weekly</title>
       <link>https://bandcamp.com/radio?show=1011</link>
@@ -448,15 +459,6 @@
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46083825_0.jpg" alt="" /></p>
 <p>Gilla selects his tracks of the year so far, featuring music from Martyn, SAULT, Seu Jorge, Izco and more...</p>
 <p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. </p>]]></description>
-    </item>
-    <item>
-      <title>Magna Carda — The Hip Hop Show</title>
-      <link>https://bandcamp.com/radio?show=964</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=964</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/45598824_0.jpg" alt="" /></p>
-<p>Austin duo, Magna Carda joins the show to talk inninoutcheamind — the album that brought them back to their jazz roots. Megz Kelli and Dougie Do bring us into their creative process and the vulnerability that shaped this album.</p>
-<p>Hosted by <a href="https://stoneycreation.bandcamp.com/music"_blank">Stoney Creation</a>. Featuring <a href="https://magnacarda.bandcamp.com/album/inninoutcheamind">Magna Carda</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
