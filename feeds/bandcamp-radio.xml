@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 06 Nov 2026 13:28:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 22:32:54 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Enslaved — The Metal Show</title>
+      <link>https://bandcamp.com/radio?show=1015</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1015</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/48231989_0.jpg" alt="" /></p>
+<p>Grutle Kjellson from Enslaved talks about collaborating with Sámi joiker Johan Sara Jr. and Blackfeet Nation elder Kevin Kicking Woman on the band's stunning new album, 'Mið.'</p>
+<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://enslaved.bandcamp.com/album/mi">Enslaved</a>.</p>]]></description>
+    </item>
     <item>
       <title>Jamz Supernova — Bandcamp Electronic</title>
       <link>https://bandcamp.com/radio?show=1022</link>
@@ -450,15 +459,6 @@ Elsewhere there's a Juan Atkins tribute and Emily plays some of her picks from W
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46036109_0.jpg" alt="" /></p>
 <p>The doom folk singer/songwriter Cinder Well joins the show to chat about her relationship with heavy music and her stunning new album, 'A Blooming Body.'</p>
 <p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://cinderwell.bandcamp.com/album/a-blooming-body">Cinder Well</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Best Of 2026 So Far... — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=972</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=972</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46083825_0.jpg" alt="" /></p>
-<p>Gilla selects his tracks of the year so far, featuring music from Martyn, SAULT, Seu Jorge, Izco and more...</p>
-<p>Hosted by <a href="https://bandcamp.com/alygillani"_blank">Gilla</a>. </p>]]></description>
     </item>
   </channel>
 </rss>
