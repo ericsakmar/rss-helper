@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 11 Nov 2026 13:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:52:36 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Shane Butler — The Indie Show</title>
+      <link>https://bandcamp.com/radio?show=1020</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1020</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/48330102_0.jpg" alt="" /></p>
+<p>On the latest episode of the Indie Show, Shane Butler talks going solo and making new record "Heavy Debt," and brings in favorite tunes from Syko Friend, John Andrews & The Yawns, and more.</p>
+<p>Hosted by <a href="https://bandcamp.com/marianatimony"_blank">Mariana Timony</a>. Featuring <a href="http://shanesbutler.bandcamp.com/">Shane Butler</a>.</p>]]></description>
+    </item>
     <item>
       <title>Robocobra Quartet — Bandcamp Weekly</title>
       <link>https://bandcamp.com/radio?show=1018</link>
@@ -450,15 +459,6 @@ Elsewhere there's a Juan Atkins tribute and Emily plays some of her picks from W
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46145060_0.jpg" alt="" /></p>
 <p>Living legend Gary Bartz on his collaborative new album with UK group, Your Brother's Keeper. </p>
 <p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>. Featuring <a href=https://garybartz.bandcamp.com>Gary Bartz</a></p>]]></description>
-    </item>
-    <item>
-      <title>Sam Binga &amp; Addison Groove — Bandcamp Electronic</title>
-      <link>https://bandcamp.com/radio?show=969</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=969</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46084025_0.jpg" alt="" /></p>
-<p>Sam Binga and Addison Groove have teamed up for a collab album Bags Inc that was built in 72 hours. They join Emily Dust to break down why the midwest of the US was such a big influence on this project, why the UK's Bristol is such a great city for music and more.</p>
-<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://pineapplerecords.bandcamp.com/album/sam-binga-addison-groove-present-bags-inc">Sam Binga and Addison Groove</a> and <a href="https://bandcamp.com/papaoul">Papaoul.</a></p>]]></description>
     </item>
   </channel>
 </rss>
