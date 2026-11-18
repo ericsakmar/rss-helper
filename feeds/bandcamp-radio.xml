@@ -5,7 +5,7 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Tue, 17 Nov 2026 15:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:14:39 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
     <item>
       <title>Los Bitchos — Bandcamp Weekly</title>
