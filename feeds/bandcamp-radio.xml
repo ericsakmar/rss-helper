@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Fri, 20 Nov 2026 14:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:29:49 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>E-L-R — The Metal Show</title>
+      <link>https://bandcamp.com/radio?show=1021</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1021</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/48330093_0.jpg" alt="" /></p>
+<p>The Swiss post-doom duo E-L-R join the show to discuss the tumult and triumph of making their new album, 'Atropa.'</p>
+<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://e-l-r.bandcamp.com/album/atropa">E-L-R</a>.</p>]]></description>
+    </item>
     <item>
       <title>UNIIQU3 — Bandcamp Electronic</title>
       <link>https://bandcamp.com/radio?show=1023</link>
@@ -450,15 +459,6 @@ Elsewhere there's a Juan Atkins tribute and Emily plays some of her picks from W
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46144968_0.jpg" alt="" /></p>
 <p>In a departure from his club sound, DJ Plead joins Emily Dust to talk about his new album Please, drawn from over 120 demos and inspired in part by his Lebanese heritage.</p>
 <p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://djplead.bandcamp.com/album/please">DJ Plead</a> and <a href="https://bandcamp.com/androosh">Androosh.</a></p>]]></description>
-    </item>
-    <item>
-      <title>Akusmi with Guest Host Paul Hanford — Bandcamp Selects</title>
-      <link>https://bandcamp.com/radio?show=980</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=980</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46257317_0.jpg" alt="" /></p>
-<p>Guest host Paul Hanford talks with Akusmi about their new record.</p>
-<p></p>]]></description>
     </item>
   </channel>
 </rss>
