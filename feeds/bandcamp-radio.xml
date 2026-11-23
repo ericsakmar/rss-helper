@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Mon, 23 Nov 2026 04:52:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:54:03 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Church Of Sound — Bandcamp Weekly</title>
+      <link>https://bandcamp.com/radio?show=1024</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1024</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/48688617_0.jpg" alt="" /></p>
+<p>Ten years in, London's iconic live series Church of Sound release their debut compilation ft live recordings from Tony Allen, The Brother Moves On, Collocutor and more</p>
+<p>Hosted by <a href="https://bandcamp.com/tinaedwards"_blank">Tina Edwards</a>. Featuring <a href="https://churchofsoundrecordings.bandcamp.com/album/clapton-hymns-vol-1-10-years-of-church-of-sound-2016-2026">Church of Sound</a>.</p>]]></description>
+    </item>
     <item>
       <title>E-L-R — The Metal Show</title>
       <link>https://bandcamp.com/radio?show=1021</link>
@@ -450,15 +459,6 @@ Elsewhere there's a Juan Atkins tribute and Emily plays some of her picks from W
       <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46144942_0.jpg" alt="" /></p>
 <p>Carson Russell and Rylie Collingwood from the Boise psychedelic doom band Ealdor Bealu talk about the high desert, shooting their own Western, and their heavy new album for Ripple Music.</p>
 <p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://ealdorbealu.bandcamp.com/album/graves-of-the-silent-plain">Ealdor Bealu</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>DJ Plead — Bandcamp Electronic</title>
-      <link>https://bandcamp.com/radio?show=976</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=976</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46144968_0.jpg" alt="" /></p>
-<p>In a departure from his club sound, DJ Plead joins Emily Dust to talk about his new album Please, drawn from over 120 demos and inspired in part by his Lebanese heritage.</p>
-<p>Hosted by <a href="https://bandcamp.com/emilydust" _ blank">Emily Dust</a>. Featuring <a href="https://djplead.bandcamp.com/album/please">DJ Plead</a> and <a href="https://bandcamp.com/androosh">Androosh.</a></p>]]></description>
     </item>
   </channel>
 </rss>
