@@ -5,8 +5,17 @@
     <link>https://bandcamp.com/radio</link>
     <description>New episodes from Bandcamp Radio</description>
     <atom:link href="https://raw.githubusercontent.com/ericsakmar/rss-helper/main/feeds/bandcamp-radio.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <lastBuildDate>Wed, 25 Nov 2026 01:45:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:30:24 GMT</lastBuildDate>
     <generator>bandcamp-rss</generator>
+    <item>
+      <title>Post Present Medium — The Indie Show</title>
+      <link>https://bandcamp.com/radio?show=1025</link>
+      <guid isPermaLink="true">https://bandcamp.com/radio?show=1025</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/48688575_0.jpg" alt="" /></p>
+<p>Guest DJ Martin Douglas interviews Dean Spunt of Post Present Medium about the underground label's 20 years of existence.</p>
+<p>Hosted by <a href="https://bandcamp.com/martindouglas"_blank">Martin Douglas</a>. Featuring <a href="https://postpresentmedium.bandcamp.com/">Post Present Medium</a>.</p>]]></description>
+    </item>
     <item>
       <title>Church Of Sound — Bandcamp Weekly</title>
       <link>https://bandcamp.com/radio?show=1024</link>
@@ -450,15 +459,6 @@ Elsewhere there's a Juan Atkins tribute and Emily plays some of her picks from W
 <p>American drummer and composer Terri Lyne Carrington marks her new album with Social Science 
 </p>
 <p>Hosted by <a href="https://bandcamp.com/tinaedwards">Tina Edwards</a>.  Featuring <a href=https://terrilynecarrington.bandcamp.com/album/trip-the-night-fantastic>Terri Lyne Carrington</a></p>]]></description>
-    </item>
-    <item>
-      <title>Ealdor Bealu — The Metal Show</title>
-      <link>https://bandcamp.com/radio?show=977</link>
-      <guid isPermaLink="true">https://bandcamp.com/radio?show=977</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://f4.bcbits.com/img/46144942_0.jpg" alt="" /></p>
-<p>Carson Russell and Rylie Collingwood from the Boise psychedelic doom band Ealdor Bealu talk about the high desert, shooting their own Western, and their heavy new album for Ripple Music.</p>
-<p>Hosted by <a href="https://daily.bandcamp.com/contributors/brad-sanders"_blank">Brad Sanders</a>. Featuring <a href="https://ealdorbealu.bandcamp.com/album/graves-of-the-silent-plain">Ealdor Bealu</a>.</p>]]></description>
     </item>
   </channel>
 </rss>
